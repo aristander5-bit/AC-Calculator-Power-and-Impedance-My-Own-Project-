@@ -24,7 +24,7 @@ def ac_calculator_power_impedance():
 
         # output_results
         print("\n Results:Power")
-        print(f"Apparent Power (S): {s:.2f}")
+        print(f"Apparent Power (S): {s:.2f} VA")
         print(f"Active Power (P): {p:.2f} W")
         print(f"Reactive Power (Q): {q:.2f} VAR")
 
