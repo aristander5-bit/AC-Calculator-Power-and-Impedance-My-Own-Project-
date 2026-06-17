@@ -1,1 +1,1 @@
-# AC_Calculator_Power_and_Impedance_My_Own_Project
+# AC Calculator Power and Impedance (My Own Project)
